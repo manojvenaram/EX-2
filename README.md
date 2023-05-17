@@ -50,7 +50,7 @@ while True:
 ```
 
 
-OUTPUT :
+## OUTPUT :
 ### CLient
 ![](2c.png)
 ### Server
