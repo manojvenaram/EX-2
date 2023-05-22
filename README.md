@@ -57,7 +57,7 @@ while True:
 ![](2s.png)
 
 
-RESULT :
+## RESULT :
 Thus, python program to perform stop and wait protocol was successfully executed
 
 
